@@ -1,4 +1,4 @@
-# README.md k mému projektu
+# README.md k mému projektua (Pracovní verze)
 
 tady budou informace o projektu
 
